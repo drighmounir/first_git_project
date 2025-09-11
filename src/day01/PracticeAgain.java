@@ -5,6 +5,6 @@ public class PracticeAgain {
         System.out.println("great to practice again");
         System.out.println("commit and push");
         System.out.println("commit and push and pull");
-        System.out.println("commit and push and fetsh");
+        System.out.println("commit and push and fetch");
     }
 }
