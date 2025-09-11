@@ -4,5 +4,7 @@ public class PracticeAgain {
     public static void main(String[] args) {
         System.out.println("great to practice again");
         System.out.println("commit and push");
+        System.out.println("commit and push and pull");
+        System.out.println("commit and push and fetsh");
     }
 }
